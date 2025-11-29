@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Livre",
+        "titre": "1984",
+        "annee": 1949,
+        "auteur": "George Orwell"
+    },
+    {
+        "type": "Magazine",
+        "titre": "Science & Vie",
+        "annee": 2023,
+        "numero": 456
+    },
+    {
+        "type": "Livre",
+        "titre": "Le Petit Prince",
+        "annee": 1943,
+        "auteur": "Antoine de Saint-Exupéry"
+    },
+    {
+        "type": "Magazine",
+        "titre": "National Geographic",
+        "annee": 2021,
+        "numero": 78
+    }
+]
